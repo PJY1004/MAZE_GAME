@@ -1,0 +1,5 @@
+﻿  MAZEGAME.cpp
+C:\Users\user\OneDrive\바탕 화면\MAZEGAME\MAZEGAME.cpp(24,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+C:\Users\user\OneDrive\바탕 화면\MAZEGAME\MAZEGAME.cpp(337): warning C4715: 'bfs': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\OneDrive\바탕 화면\MAZEGAME\MAZEGAME.cpp(432): warning C4715: 'SearchMaze': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MAZEGAME.vcxproj -> C:\Users\user\OneDrive\바탕 화면\MAZEGAME\x64\Debug\MAZEGAME.exe
